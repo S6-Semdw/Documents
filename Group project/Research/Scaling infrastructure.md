@@ -4,6 +4,10 @@
 
 ## What is the best technique to make scalable software?
 
+### Dot methods
+
+- Literature study
+
 There is no single best technique to make scalable software, as the approach you should take will depend on the specific requirements and constrains of the project that is worked on. But still there are some key points when creating scaling software.
 
 1. Design for scalability: When designing your software architecture, consider how it will need to scale as usage grows. This includes designing for high availability, fault tolerance, and load balancing.
@@ -18,6 +22,10 @@ There is no single best technique to make scalable software, as the approach you
 
 ## What role do containerization and microservices architecture play in scaling infrastructure software?
 
+### Dot methods
+
+- Literature study
+
 Containerization and microservices architecture play important roles in scaling infrastructure software.
 
 Containerization allows software to be packaged in a lightweight, portable, and standardized way, making it easier to deploy and scale across multiple environments. By using containers, developers can ensure that their software will run the same way on different platforms, and can quickly spin up new instances of their applications to handle increased demand.
@@ -27,6 +35,10 @@ Microservices architecture involves breaking down software into smaller, indepen
 Together, containerization and microservices architecture can help developers create highly scalable infrastructure software. By packaging software in containers and breaking it down into smaller services, developers can more easily deploy and scale their applications, while ensuring that each component of the application can be scaled independently based on demand.
 
 ## How can we optimize the performance of infrastructure software at scale?
+
+### Dot methods
+
+- Literature study
 
 Optimizing software at scale can be complex but there are some techniques that can help with this:
 
@@ -42,11 +54,19 @@ These techniques can optimize the performance of the software at scale. It can a
 
 ## How can we automate the deployment and management of infrastructure software at scale?
 
+### Dot methods
+
+- Literature study
+
 1. Containerization: Containerization can help automate the deployment and management of software applications at scale. By packaging applications and their dependencies into containers. This way you can ensure that they will run consistently across different environments and platforms, while allowing for easy scaling and deployment. This can be achieved with docker for example.
 
 2. Kubernetes: Kubernetes can help automate the deployment, scaling, and management of containerized applications. These tools allow you to define and manage infrastructure as code, automate resource allocation, and ensure high availability and reliability.
 
 3. CI/CD: CI/CD allows you to automate the entire software delivery process, from code changes to production deployment. This includes automated testing, build, and deployment, which can help ensure consistency and reliability of the infrastructure software.
 
+## Conclusion
+
+
+## Sources
 
 
