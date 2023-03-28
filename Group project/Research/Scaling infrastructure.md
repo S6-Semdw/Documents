@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/9fVwvVSR/image.gif" width="100%" height="450px"/>
+<img src="https://i.postimg.cc/pTKWxnFP/docker-security-1200x385.jpg" width="100%" height="300px"/>
 
 # How do we create an infrastructure that can scale with the demand of the software?
 
