@@ -101,15 +101,15 @@ These are images of the scrumboard that is used in the group project. We are usi
 ## Learning Outcome 5 - Scalable Architectures
 Besides functionality, you develop the architecture of enterprise software based on quality attributes. You especially consider attributes most relevant to enterprise contexts with high volume data and events. You design your architecture with future adaptation in mind. Your development environment supports this by being able to independently deploy and monitor the running parts of your application. 
 
-#### C4 model
-
-
-
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 0 | Group project | Orienting |
 | 1.2 | Sprint 1 | Individual project | Orienting |
+
+#### C4 model
+
+<img src="https://i.postimg.cc/Ls1TZ1Wr/C2-model-twitter.png" width=550 height=450>
 
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
@@ -120,6 +120,22 @@ You set up environments and tools which support your chosen software development
 |---|---|---|---|
 | 1.1 | Sprint 0 | Group project | Undefined |
 | 1.2 | Sprint 1 | Individual project | Undefined |
+
+#### Docker 
+
+On the images below you can see that a docker image is made. This is done automatically with GitHub actions and a Dockerfile ofcourse. On the right image you can that the actual image is pushed on docker hub.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/MH6Kggjq/Scherm-afbeelding-2023-03-29-om-22-37-58.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/nhjc84Mj/Scherm-afbeelding-2023-03-29-om-22-39-27.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
+#### Kubernetes
+
+#### Automated testing
 
 
 ## Learning Outcome 7 - Cloud Services
