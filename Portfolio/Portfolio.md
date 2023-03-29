@@ -37,18 +37,16 @@ You deliver professional products according to planning, which is the result of 
 
 #### User stories
 
-- [Personal project](https://github.com/Open-Research-Dojo/secure-webservice-0Auth2)
+- [Personal project stories](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/User%20stories.md)
 
-- [Group project](https://github.com/Open-Research-Dojo/secure-webservice-0Auth2)
+- [Group project stories](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/User%20stories.md)
 
+#### Research
 
+- [Personal research document](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/Research/Scaling%20infrastructure.md)
 
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/QMn8B32J/Identity-service.png" width=500 height=250></td> 
-    <td><img src="https://i.postimg.cc/pTHKm8zv/Login.png" width=500 height=250></td> 
-  </tr>
- </table>
+- [Group research document](www.google.com)
+
 
 ## Learning Outcome 3 - Personal Leadership
 You acquire skills required for your future career. You are aware of multiple career paths and can reflect which ones fit best, considering your (potential) skills and ambitions. You are aware of developments in software engineering and can signal trends. 
@@ -58,6 +56,7 @@ You acquire skills required for your future career. You are aware of multiple ca
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
 
+- [Future carreer research document](https://github.com/S6-Semdw/Documents/blob/main/Research/Future%20career.md)
 
 
 ## Learning Outcome 4 - Targeted Interaction
@@ -66,12 +65,45 @@ You use appropriate communication considering your role in a team, your audience
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Orienting |
+| 1.2 | Sprint 1 | Group project | Orienting |
 
+#### Standups
+
+As a group we had some good standups. On the images you can see the standups where the semestercoach joined the standups to see how we performed them. We got some great and positive feedback on them so that's why it's good proof for this learning outcome! 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/0yQTJVPr/Scherm-afbeelding-2023-03-29-om-21-53-35.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/VvkRHH7C/Scherm-afbeelding-2023-03-29-om-21-54-04.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
+#### Presentation
+
+This is a link to all the presentations we did in the group project. If you click on a certain powerpoint you are able to download it local on your pc.
+
+- [Group presentations](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
+
+
+#### Scrumboard
+
+These are images of the scrumboard that is used in the group project. We are using user stories and creating task in the stories to make sure everything is done properly and with structure.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/Bby1JhCk/Scherm-afbeelding-2023-03-29-om-22-13-45.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/fbZSWSxz/Scherm-afbeelding-2023-03-29-om-22-14-11.png" width=500 height=250></td>
+  </tr>
+</table>
 
 
 ## Learning Outcome 5 - Scalable Architectures
 Besides functionality, you develop the architecture of enterprise software based on quality attributes. You especially consider attributes most relevant to enterprise contexts with high volume data and events. You design your architecture with future adaptation in mind. Your development environment supports this by being able to independently deploy and monitor the running parts of your application. 
+
+#### C4 model
+
+
 
 ### Score
 | Id | Description | Type | Level |
