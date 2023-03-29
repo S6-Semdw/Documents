@@ -147,6 +147,8 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 | 1.1 | Sprint 0 | Group project | Undefined |
 | 1.2 | Sprint 1 | Individual project | Undefined |
 
+#### Azure deployment
+
 
 
 ## Learning Outcome 8 - Security by Design
@@ -158,6 +160,7 @@ You investigate how to minimize security risks for your application, and you inc
 | 1.1 | Sprint 0 | Group project | Undefined |
 | 1.2 | Sprint 1 | Individual project | Undefined |
 
+#### Authentication/Authorization
 
 
 ## Learning Outcome 9 – Distributed Data
