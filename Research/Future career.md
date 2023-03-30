@@ -47,6 +47,18 @@ A good reason for me to choose for this minor is because im starting a software 
 
 Overall, pursuing a minor in entrepreneurship can be a smart choice for anyone who is interested in business, innovation, and creating value. Whether you plan to start your own business or work in a more traditional role, the skills and mindset you develop in an entrepreneurship program can be valuable assets throughout your career.
 
+> Start minor: September/Februari
+
+> Location: Eindhoven
+
+> ECTs: 30
+
+> Language: English/Dutch
+
+> Duration: 20 weeks
+
+> Class days: mo-vr
+
 
 ## Internship/graduation 
 
