@@ -6,7 +6,7 @@ In this research i will be looking into possible minors and graduation internshi
 
 For the minors i'm interested in a minor abroad or the minor for entrepreneurship. 
 
-### Minor abroad
+#### Minor abroad
 
 - [Minor abroad online link](https://fontys.nl/Studeren/Minoren/Buitenlandminor.htm)
 
@@ -31,7 +31,7 @@ There are a couple of reasons that will really benefit me to choose for this min
 > Duration: 5 months
 
 
-### Entrepreneurship
+#### Entrepreneurship
 
 - [Minor entrepreneurship online link](https://fontys.nl/Studeren/Minoren/Ondernemerschap.htm)
 
@@ -65,7 +65,7 @@ Overall, pursuing a minor in entrepreneurship can be a smart choice for anyone w
 For the graduation internship i looked at the options that fontys has given on their own platform. This is a good place to look for internships because company's can upload their applications and projects on there. The students can contact the company's way easier this way and have a good place to look for their internships. For this research i found 2 company's that i am interested in. I like fullstack development in general so i want to have an internship that provides that. 
 
 
-### Moonly
+#### Moonly
 
 - [Moonly software online link](https://asam.fhict.nl/student/Assignment/Details/db20c919-0d86-44d4-b26b-dfdf94c3294a)
 
