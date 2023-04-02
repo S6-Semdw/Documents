@@ -62,4 +62,11 @@ Overall, pursuing a minor in entrepreneurship can be a smart choice for anyone w
 
 ## Internship/graduation 
 
+For the graduation internship i looked at the options that fontys has given on their own platform. This is a good place to look for internships because company's can upload their applications and projects on there. The students can contact the company's way easier this way and have a good place to look for their internships. For this research i found 2 company's that i am interested in. I like fullstack development in general so i want to have an internship that provides that. 
 
+
+### Moonly
+
+- [Moonly software online link](https://asam.fhict.nl/student/Assignment/Details/db20c919-0d86-44d4-b26b-dfdf94c3294a)
+
+Moonly is a software company that makes tailor made software. This means that whatever the customer asks there is a good possibility they can make it for them. On the assignment details i saw they have an open spot for a fullstack developer as a graduation student. This would be exactly what i want so it's a good option as graduation company. They also have a lunch provided every day and chances to work remotly. Every friday they also order fries for the whole team before the weekend starts. Personally i like a team that is really connected to each other and have a good team spirit and with things like lunching together and having for example fries on friday this really builds a good team besides working together.
