@@ -83,3 +83,7 @@ I personally believe that this internship would be a great fit for me. The fact 
 
 ## Vacancies
 
+#### Mediatastisch
+
+- [Mediatastisch](https://nl.indeed.com/cmp/Mediatastisch/jobs?jk=b5670b61d894a4c7&start=0&clearPrefilter=1)
+
