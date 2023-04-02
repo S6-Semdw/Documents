@@ -70,3 +70,16 @@ For the graduation internship i looked at the options that fontys has given on t
 - [Moonly software online link](https://asam.fhict.nl/student/Assignment/Details/db20c919-0d86-44d4-b26b-dfdf94c3294a)
 
 Moonly is a software company that makes tailor made software. This means that whatever the customer asks there is a good possibility they can make it for them. On the assignment details i saw they have an open spot for a fullstack developer as a graduation student. This would be exactly what i want so it's a good option as graduation company. They also have a lunch provided every day and chances to work remotly. Every friday they also order fries for the whole team before the weekend starts. Personally i like a team that is really connected to each other and have a good team spirit and with things like lunching together and having for example fries on friday this really builds a good team besides working together.
+
+
+#### Webs
+
+- [Webs online link](https://asam.fhict.nl/student/Assignment/Details/610c7437-3482-41d5-a87d-dad5c48cfe2c)
+
+We are Webs, the #1 HubSpot Consultancy Partner for companies that want to grow smarter. Webs consists of a team of about 60 young professionals who are completely in love with HubSpot and everything that comes with it. As an Elite HubSpot Partner, we are among the absolute top worldwide. And as a fast-growing and dynamic environment, Webs is the ideal place to further develop your talents. This is where we focus on during this graduation internship. The team you will be working with consists of highly experienced Software Engineers, System Architects, Cloud professionals, and CRM consultants. Together, you will create the best possible solution for our clients. We mainly work for commercial departments of SaaS companies and B2B companies in the manufacturing industry. Translating business needs into a technical solution that actually helps them do what they're good at is what we wake up for every morning.
+
+I personally believe that this internship would be a great fit for me. The fact that they provide a lot of freedom in choosing your end project is highly valuable to me, if it is possible, of course. Additionally, the team comprises many experienced professionals who I can learn from during the internship. This presents a valuable opportunity for me to expand my network and make new connections. Moreover, similar to the internship at Moonly, there is also a chance to work as a full-stack developer, which is also a great prospect. Another aspect I appreciate about the company is their reliance on teamwork, which is something I value as well. Just as much as the friday afternoon drinks.
+
+
+## Vacancies
+
