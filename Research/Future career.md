@@ -6,9 +6,9 @@ In this research i will be looking into possible minors and graduation internshi
 
 For the minors i'm interested in a minor abroad or the minor for entrepreneurship. 
 
-#### Minor abroad
+### Minor abroad
 
-- [Minor abroad online link](https://fontys.nl/Studeren/Minoren/Buitenlandminor.htm)
+- [Minor abroad](https://fontys.nl/Studeren/Minoren/Buitenlandminor.htm)
 
 There are a couple of reasons that will really benefit me to choose for this minor. I will be listing them down here so it has a nice structure to read.
 
@@ -31,9 +31,9 @@ There are a couple of reasons that will really benefit me to choose for this min
 > Duration: 5 months
 
 
-#### Entrepreneurship
+### Entrepreneurship
 
-- [Minor entrepreneurship online link](https://fontys.nl/Studeren/Minoren/Ondernemerschap.htm)
+- [Minor entrepreneurship](https://fontys.nl/Studeren/Minoren/Ondernemerschap.htm)
 
 A good reason for me to choose for this minor is because im starting a software company with 2 friends of mine called d3vs. But there are also some other good reasons to choose this minor. They will also be listed down here.
 
@@ -65,16 +65,16 @@ Overall, pursuing a minor in entrepreneurship can be a smart choice for anyone w
 For the graduation internship i looked at the options that fontys has given on their own platform. This is a good place to look for internships because company's can upload their applications and projects on there. The students can contact the company's way easier this way and have a good place to look for their internships. For this research i found 2 company's that i am interested in. I like fullstack development in general so i want to have an internship that provides that. 
 
 
-#### Moonly
+### Moonly
 
-- [Moonly software online link](https://asam.fhict.nl/student/Assignment/Details/db20c919-0d86-44d4-b26b-dfdf94c3294a)
+- [Moonly software](https://asam.fhict.nl/student/Assignment/Details/db20c919-0d86-44d4-b26b-dfdf94c3294a)
 
 Moonly is a software company that makes tailor made software. This means that whatever the customer asks there is a good possibility they can make it for them. On the assignment details i saw they have an open spot for a fullstack developer as a graduation student. This would be exactly what i want so it's a good option as graduation company. They also have a lunch provided every day and chances to work remotly. Every friday they also order fries for the whole team before the weekend starts. Personally i like a team that is really connected to each other and have a good team spirit and with things like lunching together and having for example fries on friday this really builds a good team besides working together.
 
 
-#### Webs
+### Webs
 
-- [Webs online link](https://asam.fhict.nl/student/Assignment/Details/610c7437-3482-41d5-a87d-dad5c48cfe2c)
+- [Webs](https://asam.fhict.nl/student/Assignment/Details/610c7437-3482-41d5-a87d-dad5c48cfe2c)
 
 We are Webs, the #1 HubSpot Consultancy Partner for companies that want to grow smarter. Webs consists of a team of about 60 young professionals who are completely in love with HubSpot and everything that comes with it. As an Elite HubSpot Partner, we are among the absolute top worldwide. And as a fast-growing and dynamic environment, Webs is the ideal place to further develop your talents. This is where we focus on during this graduation internship. The team you will be working with consists of highly experienced Software Engineers, System Architects, Cloud professionals, and CRM consultants. Together, you will create the best possible solution for our clients. We mainly work for commercial departments of SaaS companies and B2B companies in the manufacturing industry. Translating business needs into a technical solution that actually helps them do what they're good at is what we wake up for every morning.
 
@@ -83,7 +83,20 @@ I personally believe that this internship would be a great fit for me. The fact 
 
 ## Vacancies
 
-#### Mediatastisch
+### Mediatastisch
 
 - [Mediatastisch](https://nl.indeed.com/cmp/Mediatastisch/jobs?jk=b5670b61d894a4c7&start=0&clearPrefilter=1)
+
+Mediatastisch is a company located in Echt. This is also the city where I live, so that is already a huge plus. What appeals to me most about this vacancy, in addition to the location, is that they also offer opportunities for full-stack development. They also work with programming languages that I find very interesting, such as JavaScript and Java. In addition to programming the applications, they also do UI/UX work for the client. I really enjoy it when a company can provide the client with a complete package with exactly what they need, so this also appeals to me a lot. I myself can also learn a lot about UI/UX, so I may learn a lot from this.
+
+### JouwWeb
+
+- [JouwWeb](https://jobs.jouwweb.nl/o/software-engineer?utm_source=google-ads&ga[campaign]=182734352&ga[adgroup]=134546684048&ga[network]=g&ga[position]=&ga[kw]=vacatures%20software%20engineer&gclid=Cj0KCQjw8qmhBhClARIsANAtboeLg23SiLbjohpYJMr5cv69krGx9sLQKUc9T4ozEtKvqXZR6iFeessaAikIEALw_wcB)
+
+JouwWeb is a company located in Eindhoven. With JouwWeb, you can create your own websites in no time without any prior experience. In addition to creating a website, you can also immediately create a domain and email service so that your newly created website is online right away. Personally, I find this vacancy very interesting as well. It's about an hour's travel to Eindhoven for me, but they also offer the possibility to work from home on days other than Friday. Furthermore, they also work with React and TypeScript, which appeals to me a lot. They also provide daily meals and have fun team outings.
+
+
+
+
+
 
