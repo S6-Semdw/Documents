@@ -163,6 +163,17 @@ You investigate how to minimize security risks for your application, and you inc
 #### Authentication/Authorization
 
 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/4Nvm562M/Scherm-afbeelding-2023-04-04-om-15-12-18.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/JhH8Tm4n/Scherm-afbeelding-2023-04-04-om-15-12-42.png" width=500 height=250></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/66P3t9y9/Scherm-afbeelding-2023-04-04-om-15-16-27.png" width=500 height=250></td>
+  </tr>
+</table>
+
 ## Learning Outcome 9 – Distributed Data
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
 
