@@ -160,15 +160,22 @@ You investigate how to minimize security risks for your application, and you inc
 | 1.1 | Sprint 0 | Group project | Undefined |
 | 1.2 | Sprint 1 | Individual project | Undefined |
 
-#### Authentication/Authorization
+#### Authentication
 
-
+In the user service I made sure that a new user can register himself with this service. When te user is created he is also able to autheticate. Both of the request give the JWT token back so that I can verify that it's working. The proof is on the images below.
 
 <table>
   <tr>
     <td><img src="https://i.postimg.cc/4Nvm562M/Scherm-afbeelding-2023-04-04-om-15-12-18.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/JhH8Tm4n/Scherm-afbeelding-2023-04-04-om-15-12-42.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/x8LpqfyX/Scherm-afbeelding-2023-04-04-om-15-53-21.png" width=500 height=250></td>
   </tr>
+</table>
+
+#### Password hashing
+
+When the user is created he will be saved in the MYSQL database as you can see on the image below. The password is hashed so that only the user knows it so this is very secure. He also has a User role.
+
+<table>
   <tr>
     <td><img src="https://i.postimg.cc/66P3t9y9/Scherm-afbeelding-2023-04-04-om-15-16-27.png" width=500 height=250></td>
   </tr>
