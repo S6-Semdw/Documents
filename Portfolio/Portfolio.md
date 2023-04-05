@@ -25,6 +25,14 @@ You develop and deploy enterprise software, both individually and as a team, tha
 | 1.1 | Sprint 0 | Group project | Orienting |
 | 1.2 | Sprint 1 | Individual project | Orienting |
 
+#### Functional requirements
+
+- [Functional](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/Functional%20requirements.md)
+
+#### Techniqual requirements
+
+- [Techniqual](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/Techniqual%20requirements.md)
+
 
 ## Learning Outcome 2 - Investigative Problem-Solving
 You deliver professional products according to planning, which is the result of solving problems in a structured and methodical approach. You demonstrate a critical view towards your own and other people’s work. 
