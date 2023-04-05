@@ -107,9 +107,14 @@ Besides functionality, you develop the architecture of enterprise software based
 | 1.1 | Sprint 0 | Group project | Orienting |
 | 1.2 | Sprint 1 | Individual project | Orienting |
 
-#### C4 model
+#### C1 model twitter
 
-<img src="https://i.postimg.cc/Ls1TZ1Wr/C2-model-twitter.png" width=550 height=450>
+<img src="https://i.postimg.cc/C5M2MnyF/Scherm-afbeelding-2023-04-05-om-12-11-57.png" width=550 height=450>
+
+#### C2 model twitter
+
+<img src="https://i.postimg.cc/6qShs8tb/Scherm-afbeelding-2023-04-05-om-13-30-16.png" width=550 height=450>
+
 
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
