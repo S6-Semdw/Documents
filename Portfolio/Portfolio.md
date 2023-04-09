@@ -22,8 +22,7 @@ You develop and deploy enterprise software, both individually and as a team, tha
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Orienting |
-| 1.2 | Sprint 1 | Individual project | Orienting |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 ## Learning Outcome 2 - Investigative Problem-Solving
 You deliver professional products according to planning, which is the result of solving problems in a structured and methodical approach. You demonstrate a critical view towards your own and other people’s work. 
@@ -31,8 +30,7 @@ You deliver professional products according to planning, which is the result of 
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Orienting |
-| 1.2 | Sprint 1 | Individual project | Orienting |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### User stories
 
@@ -64,7 +62,7 @@ You use appropriate communication considering your role in a team, your audience
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.2 | Sprint 1 | Group project | Orienting |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### Standups
 
@@ -103,8 +101,7 @@ Besides functionality, you develop the architecture of enterprise software based
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Orienting |
-| 1.2 | Sprint 1 | Individual project | Orienting |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### C1 model twitter
 
@@ -122,8 +119,7 @@ You set up environments and tools which support your chosen software development
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Undefined |
-| 1.2 | Sprint 1 | Individual project | Undefined |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### Docker 
 
@@ -148,8 +144,7 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Undefined |
-| 1.2 | Sprint 1 | Individual project | Undefined |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### Azure deployment
 
@@ -161,8 +156,7 @@ You investigate how to minimize security risks for your application, and you inc
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Undefined |
-| 1.2 | Sprint 1 | Individual project | Undefined |
+| 1.1 | Sprint 1 | Individual project | Orienting |
 
 #### Authentication
 
@@ -191,5 +185,4 @@ You are aware of specific data requirements for enterprise systems. You apply be
 ### Score
 | Id | Description | Type | Level |
 |---|---|---|---|
-| 1.1 | Sprint 0 | Group project | Undefined |
-| 1.2 | Sprint 1 | Individual project | Undefined |
+| 1.1 | Sprint 1 | Individual project | Orienting |
