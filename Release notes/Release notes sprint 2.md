@@ -37,6 +37,8 @@ Service that get's api requests from the client
 When pushing to the main branch of the repo, a docker image gets built and is put onto docker hub. This is made for the User, Tweetservice and API gateway. 
 
 - https://github.com/S6-Semdw/TwitterUserService/actions/workflows/docker_image.yml
+- https://github.com/S6-Semdw/TwitterTweetService/actions/workflows/docker_image.yml
+- https://github.com/S6-Semdw/TwitterApiGateway/actions/workflows/docker_image.yml
 
 ### Build and test pipelines
 
