@@ -94,6 +94,12 @@ These are images of the scrumboard that is used in the group project. We are usi
   </tr>
 </table>
 
+#### User stories
+
+- [Personal project stories](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/User%20stories.md)
+
+- [Group project stories](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/User%20stories.md)
+
 
 ## Learning Outcome 5 - Scalable Architectures
 Besides functionality, you develop the architecture of enterprise software based on quality attributes. You especially consider attributes most relevant to enterprise contexts with high volume data and events. You design your architecture with future adaptation in mind. Your development environment supports this by being able to independently deploy and monitor the running parts of your application. 
