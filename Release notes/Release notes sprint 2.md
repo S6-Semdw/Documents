@@ -40,9 +40,6 @@ When pushing to the main branch of the repo, a docker image gets built and is pu
 - https://github.com/S6-Semdw/TwitterTweetService/actions/workflows/docker_image.yml
 - https://github.com/S6-Semdw/TwitterApiGateway/actions/workflows/docker_image.yml
 
-### Build and test pipelines
-
---
 
 ## Sprint retrospective
 
