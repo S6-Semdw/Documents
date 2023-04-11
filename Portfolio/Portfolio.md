@@ -141,6 +141,15 @@ On the images below you can see that a docker image is made. This is done automa
 
 #### Kubernetes
 
+On the images below you can see that I managed to make a Kubernetes cluster with in this case a pod for the twitteruserservice I made. The docker image I made earlier is actually in the pod so with this kubernetes can later scale it when needed.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/pV4k3HxV/Scherm-afbeelding-2023-04-10-om-23-17-40.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/MpD7Z2kQ/Scherm-afbeelding-2023-04-10-om-23-16-16.png" width=500 height=250></td>
+  </tr>
+</table>
+
 #### Automated testing
 
 
