@@ -117,7 +117,16 @@ Besides functionality, you develop the architecture of enterprise software based
 
 <img src="https://i.postimg.cc/6qShs8tb/Scherm-afbeelding-2023-04-05-om-13-30-16.png" width=550 height=450>
 
+#### RabbitMQ 
 
+On the images below you can see that I made a small demo with RabbitMQ that sends some dummy data into the queue. This can also be done with some user data or tweets ofcourse. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
+  </tr>
+</table>
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
