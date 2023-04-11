@@ -146,7 +146,7 @@ On the images below you can see that I managed to make a Kubernetes cluster with
 <table>
   <tr>
     <td><img src="https://i.postimg.cc/pV4k3HxV/Scherm-afbeelding-2023-04-10-om-23-17-40.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/MpD7Z2kQ/Scherm-afbeelding-2023-04-10-om-23-16-16.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/VLFgvbnv/Scherm-afbeelding-2023-04-11-om-17-42-49.png" width=500 height=250></td>
   </tr>
 </table>
 
