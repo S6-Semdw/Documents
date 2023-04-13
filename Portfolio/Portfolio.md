@@ -31,6 +31,7 @@ You deliver professional products according to planning, which is the result of 
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
+| 1.1 | Sprint 2 | Individual project | Beginning |
 
 #### User stories
 
@@ -52,6 +53,7 @@ You acquire skills required for your future career. You are aware of multiple ca
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
+| 1.2 | Sprint 2 | Individual project | Proficient |
 
 - [Future carreer research document](https://github.com/S6-Semdw/Documents/blob/main/Research/Future%20career.md)
 
@@ -63,6 +65,7 @@ You use appropriate communication considering your role in a team, your audience
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
+| 1.2 | Sprint 1 | Individual project | Beginning |
 
 #### Standups
 
@@ -93,6 +96,8 @@ These are images of the scrumboard that is used in the group project. We are usi
     <td><img src="https://i.postimg.cc/fbZSWSxz/Scherm-afbeelding-2023-03-29-om-22-14-11.png" width=500 height=250></td>
   </tr>
 </table>
+
+#### Bullet list van 
 
 #### User stories
 
