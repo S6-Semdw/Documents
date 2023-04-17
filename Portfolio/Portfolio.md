@@ -225,3 +225,12 @@ You are aware of specific data requirements for enterprise systems. You apply be
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
+
+#### Database for every microservice
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/ZqfJ67Nn/Scherm-afbeelding-2023-04-17-om-13-19-21.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/PrmhSrDB/Scherm-afbeelding-2023-04-17-om-13-19-10.png" width=500 height=250></td>
+  </tr>
+</table>
