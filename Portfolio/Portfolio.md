@@ -59,6 +59,8 @@ You acquire skills required for your future career. You are aware of multiple ca
 | 1.1 | Sprint 1 | Individual project | Orienting |
 | 1.2 | Sprint 2 | Individual project | Proficient |
 
+#### Future carreer document
+
 - [Future carreer research document](https://github.com/S6-Semdw/Documents/blob/main/Research/Future%20career.md)
 
 
@@ -101,7 +103,7 @@ These are images of the scrumboard that is used in the group project. We are usi
   </tr>
 </table>
 
-#### Bullet list van 
+#### Bullet list of user stories that are done
 
 #### User stories
 
