@@ -128,14 +128,13 @@ Besides functionality, you develop the architecture of enterprise software based
 
 <img src="https://i.postimg.cc/6qShs8tb/Scherm-afbeelding-2023-04-05-om-13-30-16.png" width=550 height=450>
 
-#### RabbitMQ 
+#### Kubernetes scaling pods
 
-On the images below you can see that I made a small demo with RabbitMQ that sends some dummy data into the queue. This can also be done with some user data or tweets ofcourse. 
+When a pod is deleted kubernetes automatically adds another pod in the cluster. So i makes sure there is always a pod running that can be used.
 
 <table>
   <tr>
-    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/VLFgvbnv/Scherm-afbeelding-2023-04-11-om-17-42-49.png" width=500 height=250></td>
   </tr>
 </table>
 
@@ -254,6 +253,17 @@ You are aware of specific data requirements for enterprise systems. You apply be
 | Id | Description | Type | Level |
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
+
+#### RabbitMQ 
+
+On the images below you can see that I made a small demo with RabbitMQ that sends some dummy data into the queue. This can also be done with some user data or tweets ofcourse. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
+  </tr>
+</table>
 
 #### Database for every microservice
 
