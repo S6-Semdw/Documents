@@ -21,7 +21,7 @@ You develop and deploy enterprise software, both individually and as a team, tha
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 
 #### Enterprise software document
@@ -33,7 +33,7 @@ You deliver professional products according to planning, which is the result of 
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | Beginning |
 
@@ -55,7 +55,7 @@ You acquire skills required for your future career. You are aware of multiple ca
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | Proficient |
 
@@ -69,7 +69,7 @@ You use appropriate communication considering your role in a team, your audience
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | Beginning |
 
@@ -117,7 +117,7 @@ Besides functionality, you develop the architecture of enterprise software based
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
@@ -144,7 +144,7 @@ You set up environments and tools which support your chosen software development
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
@@ -180,7 +180,7 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
@@ -225,7 +225,7 @@ You investigate how to minimize security risks for your application, and you inc
 
 ### Score
 | Id | Description | Type | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
@@ -255,7 +255,7 @@ You are aware of specific data requirements for enterprise systems. You apply be
 
 ### Score
 | Id | Description | Level |
-|---|---|---|---|
+|---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
