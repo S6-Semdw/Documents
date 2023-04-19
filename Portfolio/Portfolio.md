@@ -174,9 +174,6 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
   </tr>
 </table>
 
-#### Automated testing
-
-
 ## Learning Outcome 7 - Cloud Services
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
 
@@ -185,9 +182,41 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 |---|---|---|---|
 | 1.1 | Sprint 1 | Individual project | Orienting |
 
+#### RabbitMQ 
+
+On the images below you can see that I made a small poc with rabbitMQ. This can also be used for the group project
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### Docker hub 
+
+On the images below you can see that I made a small poc with rabbitMQ. This can also be used for the group project
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/bY1CJ95g/Scherm-afbeelding-2023-04-19-om-09-47-50.png" height=250></td>
+  </tr>
+</table>
+
+
+#### Database online
+
+I also managed to put a mysql database online via db4free.net. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/1tQFYwKR/Scherm-afbeelding-2023-04-18-om-13-37-30.png" height=250></td>
+  </tr>
+</table>
+
 #### Azure deployment
 
-
+----
 
 ## Learning Outcome 8 - Security by Design
 You investigate how to minimize security risks for your application, and you incorporate best practices in your whole software development process. 
