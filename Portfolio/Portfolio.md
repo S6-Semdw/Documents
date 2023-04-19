@@ -224,7 +224,7 @@ I also managed to put a mysql database online via db4free.net.
 You investigate how to minimize security risks for your application, and you incorporate best practices in your whole software development process. 
 
 ### Score
-| Id | Description | Type | Level |
+| Id | Description | Level |
 |---|---|---|
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
