@@ -7,6 +7,7 @@
 ### Dot methods
 
 - Literature study
+- Interview
 
 There is no single best technique to make scalable software, as the approach you should take will depend on the specific requirements and constrains of the project that is worked on. But still there are some key points when creating scaling software.
 
@@ -16,7 +17,7 @@ There is no single best technique to make scalable software, as the approach you
 
 3. Utilize cloud services: Cloud computing platforms like Amazon Web Services, Microsoft Azure, or Google Cloud Platform offer scalable infrastructure and services like load balancing, auto-scaling, and database scaling. Using these services can make it easier to scale your software without having to manage the underlying infrastructure yourself.
 
-4. Containerizaition: Containerization allows you to package your application and its dependencies into a portable container, making it easier to deploy and scale across multiple environments.
+4. Containerizaition: Containerization allows you to package your application and its dependencies into a portable container, making it easier to deploy and scale across multiple environments. 
 
 5. Microservices: Microservices architecture can help you break down your software into smaller, independently deployable services that can be scaled separately based on demand.
 
@@ -25,6 +26,7 @@ There is no single best technique to make scalable software, as the approach you
 ### Dot methods
 
 - Literature study
+- Prototyping
 
 Containerization and microservices architecture play important roles in scaling infrastructure software.
 
@@ -33,6 +35,19 @@ Containerization allows software to be packaged in a lightweight, portable, and 
 Microservices architecture involves breaking down software into smaller, independently deployable services that can be scaled separately based on demand. Each microservice can be developed, deployed, and scaled independently, allowing developers to focus on specific features or functions of the application. This also allows for greater flexibility and resilience, as failures in one microservice do not necessarily affect the entire application.
 
 Together, containerization and microservices architecture can help developers create highly scalable infrastructure software. By packaging software in containers and breaking it down into smaller services, developers can more easily deploy and scale their applications, while ensuring that each component of the application can be scaled independently based on demand.
+
+### Prototyping 
+
+For the prototype I containerized a microservice so this can help the testing it and veryfing the concept. It also helps by reducing the risk because this identifies potential risks beforehand.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/MH6Kggjq/Scherm-afbeelding-2023-03-29-om-22-37-58.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/nhjc84Mj/Scherm-afbeelding-2023-03-29-om-22-39-27.png" width=500 height=250></td>
+  </tr>
+</table>
+
+On the image above you can see a docker image is made from a microservice and is pushed to docker hub. Now it can be runned as a docker container and able to scale when needed.
 
 ## How can we optimize the performance of infrastructure software at scale?
 
@@ -57,12 +72,19 @@ These techniques can optimize the performance of the software at scale. It can a
 ### Dot methods
 
 - Literature study
+- Prototyping
 
 1. Containerization: Containerization can help automate the deployment and management of software applications at scale. By packaging applications and their dependencies into containers. This way you can ensure that they will run consistently across different environments and platforms, while allowing for easy scaling and deployment. This can be achieved with docker for example.
 
 2. Kubernetes: Kubernetes can help automate the deployment, scaling, and management of containerized applications. These tools allow you to define and manage infrastructure as code, automate resource allocation, and ensure high availability and reliability.
 
 3. CI/CD: CI/CD allows you to automate the entire software delivery process, from code changes to production deployment. This includes automated testing, build, and deployment, which can help ensure consistency and reliability of the infrastructure software.
+
+### Prototyping 
+
+1. Kubernetes uses pods that can scale when needed. On the video below you can see 3 pods that are used and are able to scale when needed. Even when a pod is deleted it will make a new one automatically. [@Milo](https://github.com/Milofow) is a a group memeber from the group project I work on called Stockbrood. He  made a very good prototype/POC for this.
+
+https://user-images.githubusercontent.com/73555911/231696399-f423322d-51aa-4010-b949-ff2b0f4e2d75.mp4
 
 ## Conclusion
 
