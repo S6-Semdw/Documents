@@ -94,9 +94,8 @@ This is a link to all the presentations we did in the group project. If you clic
 
 #### Release notes
 
-- [Release notes sprint 1](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
-- [Release notes sprint 2](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
-
+- [Release notes sprint 1](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/Release%20notes%20sprint%201.md)
+- [Release notes sprint 2](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/Release%20notes%20sprint%202.md)
 
 
 #### User stories
