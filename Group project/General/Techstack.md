@@ -6,6 +6,12 @@
 We chose to use a microservice architecture for our project over a monolithic architecture because it has several advantages. For one, microservices are flexible and can be easily scaled up or down based on the specific needs of each service. This means we can handle sudden surges in traffic or resource demands more efficiently. 
 Another big benefit of microservices is their reliability. If one service fails, the rest of the system can continue to function normally whilst we restore the failed microservice.  Lastly, microservices promote modularity and flexibility, making it easier to update and maintain individual services without disrupting the whole system. This is particularly useful due to the fact that our project is expected to be handed over to different development teams.
 
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/25TmmwvH/Microservices.gif"></td>
+  </tr>
+</table>
+
 ## Angular 
 
 Angular is a framework that allows us to build responsive and reactive web applications. Angular is particularly useful because it also allows us to easily scale our web application. Another benefit is that Angular has a large following of developers and therefore has a lot of available libraries that we can use to quickly implement functionalities. Finally Angular has a large amount of online resources that can be used for troubleshooting. Considering we’re students, the choice for Angular was also made because we wanted to learn a new framework. Our group had previous experience with React and wanted to learn something new.
