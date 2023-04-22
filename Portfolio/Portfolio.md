@@ -22,7 +22,7 @@ You develop and deploy enterprise software, both individually and as a team, tha
 ### Score
 | Id | Description | Level |
 |---|---|---|
-| 1.1 | Sprint 1 | Orienting |
+| 1.1 | Sprint 1 | Proficient |
 
 #### Enterprise software document
 
@@ -138,6 +138,29 @@ When a pod is deleted kubernetes automatically adds another pod in the cluster. 
     <td><img src="https://i.postimg.cc/VLFgvbnv/Scherm-afbeelding-2023-04-11-om-17-42-49.png" width=500 height=250></td>
   </tr>
 </table>
+
+#### Discovery service
+
+I made a discovery service for the API gateway to discover. As you can see the services are added as clients
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/PJjCcKkS/Scherm-afbeelding-2023-04-22-om-22-30-36.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### API gateway
+
+On the images below you can see that the API gateway is made and works. I used a yml file to configure it and tested with Postman.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/7YP625PJ/Scherm-afbeelding-2023-04-23-om-00-20-54.png" width=500 height=250></td>
+     <td><img src="https://i.postimg.cc/c1h10d7x/Scherm-afbeelding-2023-04-23-om-00-20-17.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
