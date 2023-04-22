@@ -92,18 +92,12 @@ This is a link to all the presentations we did in the group project. If you clic
 - [Group presentations](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
 
 
-#### Scrumboard
+#### Release notes
 
-These are images of the scrumboard that is used in the group project. We are using user stories and creating task in the stories to make sure everything is done properly and with structure.
+- [Release notes sprint 1](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
+- [Release notes sprint 2](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
 
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/Bby1JhCk/Scherm-afbeelding-2023-03-29-om-22-13-45.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/fbZSWSxz/Scherm-afbeelding-2023-03-29-om-22-14-11.png" width=500 height=250></td>
-  </tr>
-</table>
 
-#### Bullet list of user stories that are done
 
 #### User stories
 
