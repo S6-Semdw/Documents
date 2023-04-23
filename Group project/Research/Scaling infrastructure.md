@@ -120,7 +120,10 @@ https://user-images.githubusercontent.com/73555911/231696399-f423322d-51aa-4010-
 
 # Conclusion
 
+In conclusion, creating a scaling infrastructure with demand on the software is possible with Docker, Kubernetes and microservices. With ofcourse horizontal, vertical scaling, load balancing, performance monitoring, and optimizing code and database queries.
 
-# Sources
+Docker and Kubernetes provide the necessary tools for deploying and scaling these microservices, with Docker offering a containerization platform that ensures consistent deployment and scalability, and Kubernetes providing orchestration and automation capabilities to manage multiple containers and services.
 
+The combination of microservices, Docker, and Kubernetes provides a scalable infrastructure that can handle increasing demand and traffic without compromising performance or reliability. By utilizing these technologies, organizations can achieve improved resource utilization, increased flexibility and agility, and faster time to market for their software applications.
 
+Overall, the adoption of microservices, Docker, and Kubernetes is becoming increasingly important for organizations that want to remain competitive in an ever-evolving technological landscape. By creating a scalable infrastructure with these technologies, organizations can ensure that their software applications can handle increasing demand and traffic with ease.
