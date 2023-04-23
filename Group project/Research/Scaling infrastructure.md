@@ -83,6 +83,7 @@ These techniques can optimize the performance of the software at scale. It can a
 ### Dot methods
 
 - Literature study
+- Brainstorm
 - Prototyping
 
 1. Containerization: Containerization can help automate the deployment and management of software applications at scale. By packaging applications and their dependencies into containers. This way you can ensure that they will run consistently across different environments and platforms, while allowing for easy scaling and deployment. This can be achieved with docker for example.
@@ -91,9 +92,13 @@ These techniques can optimize the performance of the software at scale. It can a
 
 3. CI/CD: CI/CD allows you to automate the entire software delivery process, from code changes to production deployment. This includes automated testing, build, and deployment, which can help ensure consistency and reliability of the infrastructure software.
 
+## Brainstorm
+
+In addition to the Docker discord server, there is also a Kubernetes discord server. This is also where I met someone I had a brainstorming session with. His name is Jean and lives in America. He himself already has a lot of experience with Kubernetes at the software company where he works, so I thought it would be a good plan to show the prototype that Milo created for the group. Jean was very satisfied and saw that we made a good step into the world of Kubernetes. He also told me that there are a lot of possibilities and advised me to read the documentation of Kubernetes because there is a lot of information and possibilities here. Furthermore, I could always reach him if we couldn't work it out as a group.
+
 ## Prototyping 
 
-1. Kubernetes uses pods that can scale when needed. On the video below you can see 3 pods that are used and are able to scale when needed. Even when a pod is deleted it will make a new one automatically. [@Milo](https://github.com/Milofow) is a a group memeber from the group project I work on called Stockbrood. He  made a very good prototype/POC for this.
+1. Kubernetes uses pods that can scale when needed. On the video below you can see 3 pods that are used and are able to scale when needed. Even when a pod is deleted it will make a new one automatically. [@Milo](https://github.com/Milofow) is a a group memeber from the group project I work on called Stockbrood. He made a very good prototype/POC for this.
 
 https://user-images.githubusercontent.com/73555911/231696399-f423322d-51aa-4010-b949-ff2b0f4e2d75.mp4
 
