@@ -1,8 +1,8 @@
 <img src="https://i.postimg.cc/pTKWxnFP/docker-security-1200x385.jpg" width="100%" height="300px"/>
 
-# How do we create an infrastructure that can scale with the demand of the software?
+# Main question: How do we create an infrastructure that can scale with the demand of the software?
 
-## What is the best technique to make scalable software?
+# What is the best technique to make scalable software?
 
 ### Dot methods
 
@@ -21,11 +21,18 @@ There is no single best technique to make scalable software, as the approach you
 
 5. Microservices: Microservices architecture can help you break down your software into smaller, independently deployable services that can be scaled separately based on demand.
 
-## What role do containerization and microservices architecture play in scaling infrastructure software?
+### Interview
+
+For the interview I talked to an someone and asked him the same question as my sub research question. His name is Mark and I got to know him through the Docker discord server. He is a moderator so this means he knows some stuff about Docker etc. This is the answer I got to the question I asked:
+
+> Certainly, there are several techniques that can help make software scalable. However, the best technique depends on the specific requirements of the software and the underlying infrastructure. Nonetheless, there are some general practices that can help in most cases. One of the most important techniques for making software scalable is to design the software with scalability in mind from the very beginning. This means taking into consideration factors such as load balancing, caching, and horizontal scaling when developing the architecture of the software. By doing this, you can ensure that the software is able to handle increased traffic and usage as it grows. Another important technique for making software scalable is to use distributed systems and microservices. By breaking the software down into smaller, independent services that can communicate with each other, you can achieve greater scalability and flexibility. Additionally, this approach can also help with fault tolerance, as individual services can fail without bringing down the entire system.
+
+# What role do containerization and microservices architecture play in scaling infrastructure software?
 
 ### Dot methods
 
 - Literature study
+- Brainstorm
 - Prototyping
 
 Containerization and microservices architecture play important roles in scaling infrastructure software.
@@ -36,7 +43,11 @@ Microservices architecture involves breaking down software into smaller, indepen
 
 Together, containerization and microservices architecture can help developers create highly scalable infrastructure software. By packaging software in containers and breaking it down into smaller services, developers can more easily deploy and scale their applications, while ensuring that each component of the application can be scaled independently based on demand.
 
-### Prototyping 
+## Brainstorm
+
+In addition to Mark interviewing me, we also had a brainstorming session together on this subrvague. We talked together about the possibilities of containerization and microservices for scaling the software. We talked about Docker and all its capabilities. We also looked at the group project we are currently working on called Automated trading model and how Docker can be of good use here. A prototype came out of this which ensures that a microservice is in a docker container and can be used from there. This is very useful for the group project we are currently working on.
+
+## Prototyping 
 
 For the prototype I containerized a microservice so this can help the testing it and veryfing the concept. It also helps by reducing the risk because this identifies potential risks beforehand.
 
@@ -49,7 +60,7 @@ For the prototype I containerized a microservice so this can help the testing it
 
 On the image above you can see a docker image is made from a microservice and is pushed to docker hub. Now it can be runned as a docker container and able to scale when needed.
 
-## How can we optimize the performance of infrastructure software at scale?
+# How can we optimize the performance of infrastructure software at scale?
 
 ### Dot methods
 
@@ -67,7 +78,7 @@ Optimizing software at scale can be complex but there are some techniques that c
 
 These techniques can optimize the performance of the software at scale. It can also handle more traffic this way.
 
-## How can we automate the deployment and management of infrastructure software at scale?
+# How can we automate the deployment and management of infrastructure software at scale?
 
 ### Dot methods
 
@@ -80,15 +91,15 @@ These techniques can optimize the performance of the software at scale. It can a
 
 3. CI/CD: CI/CD allows you to automate the entire software delivery process, from code changes to production deployment. This includes automated testing, build, and deployment, which can help ensure consistency and reliability of the infrastructure software.
 
-### Prototyping 
+## Prototyping 
 
 1. Kubernetes uses pods that can scale when needed. On the video below you can see 3 pods that are used and are able to scale when needed. Even when a pod is deleted it will make a new one automatically. [@Milo](https://github.com/Milofow) is a a group memeber from the group project I work on called Stockbrood. He  made a very good prototype/POC for this.
 
 https://user-images.githubusercontent.com/73555911/231696399-f423322d-51aa-4010-b949-ff2b0f4e2d75.mp4
 
-## Conclusion
+# Conclusion
 
 
-## Sources
+# Sources
 
 
