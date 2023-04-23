@@ -45,7 +45,7 @@ Together, containerization and microservices architecture can help developers cr
 
 ## Brainstorm
 
-In addition to Mark interviewing me, we also had a brainstorming session together on this subrvague. We talked together about the possibilities of containerization and microservices for scaling the software. We talked about Docker and all its capabilities. We also looked at the group project we are currently working on called Automated trading model and how Docker can be of good use here. A prototype came out of this which ensures that a microservice is in a docker container and can be used from there. This is very useful for the group project we are currently working on.
+In addition to Mark interviewing me, we also had a brainstorming session together on this subquestion. We talked together about the possibilities of containerization and microservices for scaling the software. We talked about Docker and all its capabilities. We also looked at the group project we are currently working on called Automated trading model and how Docker can be of good use here. A prototype came out of this which ensures that a microservice is in a docker container and can be used from there. This is very useful for the group project we are currently working on.
 
 ## Prototyping 
 
@@ -65,6 +65,7 @@ On the image above you can see a docker image is made from a microservice and is
 ### Dot methods
 
 - Literature study
+- Brainstorm
 
 Optimizing software at scale can be complex but there are some techniques that can help with this:
 
@@ -77,6 +78,21 @@ Optimizing software at scale can be complex but there are some techniques that c
 4. Optimizing code: Optimize code for performance by using best practices. This can reduce the number of database queries and minimizing network latency.
 
 These techniques can optimize the performance of the software at scale. It can also handle more traffic this way.
+
+## Brainstorm 
+
+In addition to the Docker discord server, there is also a Kubernetes discord server. This is also where I met someone I had a brainstorming session with. His name is Jean and lives in America. We talked about optimizing the performance of infrastructure software at scale. This addresses all 4 points above here. Below is some information about the subquestion we talked about.
+
+Firstly, regular monitoring and analysis of software infrastructure should be performed to identify any performance issues or bottlenecks. Performance metrics such as response time, resource utilization, and throughput should be monitored to identify areas for improvement.
+
+Scaling infrastructure is another important method of optimizing performance. Horizontal scaling involves adding more machines to distribute the workload, while vertical scaling involves increasing the resources of existing machines.
+
+Load balancing is a technique that can distribute the workload across multiple machines to avoid overloading any single machine. Load balancers can be used to distribute requests to multiple servers.
+
+Lastly, optimization of code and database queries can also improve performance. Optimizing code can involve using caching, optimizing algorithms, or minimizing resource-intensive operations. Database queries can be optimized by reducing the number of queries, indexing data, and using query optimization techniques.
+
+By utilizing these methods, organizations can ensure that their infrastructure software is optimized for maximum performance, reliability, and scalability.
+
 
 # How can we automate the deployment and management of infrastructure software at scale?
 
@@ -94,7 +110,7 @@ These techniques can optimize the performance of the software at scale. It can a
 
 ## Brainstorm
 
-In addition to the Docker discord server, there is also a Kubernetes discord server. This is also where I met someone I had a brainstorming session with. His name is Jean and lives in America. He himself already has a lot of experience with Kubernetes at the software company where he works, so I thought it would be a good plan to show the prototype that Milo created for the group. Jean was very satisfied and saw that we made a good step into the world of Kubernetes. He also told me that there are a lot of possibilities and advised me to read the documentation of Kubernetes because there is a lot of information and possibilities here. Furthermore, I could always reach him if we couldn't work it out as a group.
+Just like the last research question I talked to Jean about this subquestion. He himself already has a lot of experience with Kubernetes at the software company where he works, so I thought it would be a good plan to show the prototype that Milo created for the group. Jean was very satisfied and saw that we made a good step into the world of Kubernetes. He also told me that there are a lot of possibilities and advised me to read the documentation of Kubernetes because there is a lot of information and possibilities here. Furthermore, I could always reach him if we couldn't work it out as a group.
 
 ## Prototyping 
 
