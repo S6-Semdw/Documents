@@ -275,17 +275,6 @@ You are aware of specific data requirements for enterprise systems. You apply be
 | 1.1 | Sprint 1 | Orienting |
 | 1.2 | Sprint 2 | --- |
 
-#### RabbitMQ 
-
-On the images below you can see that I made a small demo with RabbitMQ that sends some dummy data into the queue. This can also be done with some user data or tweets ofcourse. 
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
-  </tr>
-</table>
-
 #### Database for every microservice
 
 <table>
@@ -294,3 +283,17 @@ On the images below you can see that I made a small demo with RabbitMQ that send
     <td><img src="https://i.postimg.cc/PrmhSrDB/Scherm-afbeelding-2023-04-17-om-13-19-10.png" width=500 height=250></td>
   </tr>
 </table>
+
+#### Distributed data issues (independent database)
+
+Distributed data issues can arise when multiple independent databases are used in an application, which can lead to problems with data consistency and integrity. Some common issues that can occur with independent databases include:
+
+- Data synchronization: Keeping data synchronized across multiple databases can be challenging, especially when different databases are being updated simultaneously. If data is not synchronized correctly, it can result in data inconsistencies and integrity problems. To address this challenge, different synchronization methods can be used. One approach is to use a master-slave replication model, where updates are made to a master database and then propagated to one or more slave databases. This approach can help ensure that all databases have consistent data, but can result in performance issues if the replication process is slow.
+
+- Data fragmentation: Data fragmentation can occur when data is split across multiple databases, making it difficult to access and analyze. It can also lead to data duplication and inconsistencies. Data fragmentation can be addressed by different techniques. One approach is to use data virtualization, where a single view of the data is presented, hiding the complexity of the underlying data sources. Another approach is to use data integration tools that can bring fragmented data together into a unified view
+
+- Security and access control: Different databases may have different security and access control policies, which can make it difficult to manage user access and ensure data security across all databases. There are different approaches to securing independent databases. One approach is to use encryption techniques to protect data at rest and in transit. This can be done using techniques such as database-level encryption, file-level encryption, or column-level encryption. Another approach is to use access controls to limit who can access, modify, or delete data. This can be done using techniques such as role-based access control, attribute-based access control, or mandatory access control.
+
+- Scalability: Scaling a distributed database can be more complex than scaling a single database, as it requires ensuring that data is distributed evenly across all nodes and that performance remains consistent. There are different approaches to achieving scalability in independent databases. One approach is to use horizontal scaling, where additional databases or nodes are added to distribute the workload. This can be done using techniques such as sharding, where data is partitioned across multiple databases, or replication, where data is copied to multiple nodes for redundancy and load balancing. Another approach is to use vertical scaling, where the resources of a single database or node are increased to handle higher workloads. This can be done by adding more processing power, memory, or storage to the system.
+
+Overall, distributed data issues can make it difficult to maintain data consistency, integrity, and security across an application. It requires careful design and management to ensure that data is synchronized correctly and that the system can scale and maintain performance under load.
