@@ -278,6 +278,18 @@ For the security by design I looked trough the canvas module. A good way to achi
   </tr>
 </table>
 
+#### Encrypted secrets
+
+I also added encrypted secrets in my repository for my dockerfile. This means that no one can see my docker username and password but my dockerfile still operates with them. So this is a safe way to still use the credentials that i need to run the file. I also got this from the security and design module on canvas.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/50JV4k9v/Scherm-afbeelding-2023-05-08-om-00-32-20.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
+
 ## Learning Outcome 9 – Distributed Data
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
 
