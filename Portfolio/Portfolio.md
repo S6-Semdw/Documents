@@ -258,11 +258,23 @@ In the user service I made sure that a new user can register himself with this s
 
 #### Password hashing
 
-When the user is created he will be saved in the MYSQL database as you can see on the image below. The password is hashed so that only the user knows it so this is very secure. He also has a User role.
+When the user is created he will be saved in the MYSQL database as you can see on the image below. The password is hashed so that only the user knows it so this is very secure.
 
 <table>
   <tr>
     <td><img src="https://i.postimg.cc/66P3t9y9/Scherm-afbeelding-2023-04-04-om-15-16-27.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
+#### Roles
+
+For the security by design I looked trough the canvas module. A good way to achieve this learning outcome would be to add roles so that is what i did. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/y69ZrDtb/Scherm-afbeelding-2023-05-08-om-00-22-33.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/XYNBJQJR/Scherm-afbeelding-2023-05-08-om-00-23-25.png" width=500 height=250></td>
   </tr>
 </table>
 
