@@ -118,13 +118,18 @@ Besides functionality, you develop the architecture of enterprise software based
 
 <img src="https://i.postimg.cc/qvMQThzB/Scherm-afbeelding-2023-05-08-om-10-57-45.png" width=550 height=450>
 
-#### Kubernetes scaling pods
+#### Kubernetes
 
-When a pod is deleted kubernetes automatically adds another pod in the cluster. So i makes sure there is always a pod running that can be used.
+On the first 2 images below you can see that I managed to make a Kubernetes cluster with in this case a pod for the twitteruserservice I made. The docker image I made earlier is actually in the pod so with this Kubernetes can later scale it when needed. On the second 2 images below that there is more proof that shows the information about the pod that is made in the cluster. This is straight from the terminal.
 
 <table>
   <tr>
-    <td><img src="https://i.postimg.cc/VLFgvbnv/Scherm-afbeelding-2023-04-11-om-17-42-49.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/pV4k3HxV/Scherm-afbeelding-2023-04-10-om-23-17-40.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/KjN4bNDT/Scherm-afbeelding-2023-05-09-om-22-06-50.png" width=500 height=250></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/90L45Vwm/Scherm-afbeelding-2023-04-10-om-23-31-43.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/mgvPGmkH/Scherm-afbeelding-2023-04-10-om-23-32-00.png" width=500 height=250></td>
   </tr>
 </table>
 
@@ -169,21 +174,6 @@ On the images below you can see that a docker image is made. This is done automa
   </tr>
 </table>
 
-
-#### Kubernetes
-
-On the first 2 images below you can see that I managed to make a Kubernetes cluster with in this case a pod for the twitteruserservice I made. The docker image I made earlier is actually in the pod so with this Kubernetes can later scale it when needed. On the second 2 images below that there is more proof that shows the information about the pod that is made in the cluster. This is straight from the terminal.
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/pV4k3HxV/Scherm-afbeelding-2023-04-10-om-23-17-40.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/VLFgvbnv/Scherm-afbeelding-2023-04-11-om-17-42-49.png" width=500 height=250></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/90L45Vwm/Scherm-afbeelding-2023-04-10-om-23-31-43.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/mgvPGmkH/Scherm-afbeelding-2023-04-10-om-23-32-00.png" width=500 height=250></td>
-  </tr>
-</table>
 
 #### Sonarcloud 
 
