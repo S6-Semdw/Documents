@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document is created to help the reader easily find the products i made for this semester. The reading guide is written for my personal portfolio and to show all the proof for my learning outcomes. There are 9 outcomes in total and during this semester i will get proof to get at least a proficient for every learning outcome. I will collect this evidence in a group and personal project.
+This document is created to help the reader easily find the products i made for this semester. The reading guide is written for my personal portfolio and to show all the proof for my learning outcomes. There are 9 learning outcomes in total and during this semester i will get proof to get at least a proficient for every learning outcome. I will collect this evidence in a group and personal project.
 
 ### Group project: Stockbrood
 
@@ -20,9 +20,9 @@ Scale for every learning outcomes: undefined, orienting, beginning, proficient, 
 You develop and deploy enterprise software, both individually and as a team, that fits the current question and needs of your stakeholders. Your final solution is designed with the possibility for future further development. 
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Proficient |
+| Id | Level |
+|---|---|
+| 1.1 | Proficient | 
 
 #### Enterprise software document
 
@@ -32,10 +32,9 @@ You develop and deploy enterprise software, both individually and as a team, tha
 You deliver professional products according to planning, which is the result of solving problems in a structured and methodical approach. You demonstrate a critical view towards your own and other people’s work. 
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | Beginning |
+| Id | Level |
+|---|---|
+| 1.1 | Proficient |
 
 #### User stories
 
@@ -54,10 +53,9 @@ You deliver professional products according to planning, which is the result of 
 You acquire skills required for your future career. You are aware of multiple career paths and can reflect which ones fit best, considering your (potential) skills and ambitions. You are aware of developments in software engineering and can signal trends. 
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | Proficient |
+| Id | Level |
+|---|---|
+| 1.1 | Proficient |
 
 #### Future carreer document
 
@@ -68,10 +66,9 @@ You acquire skills required for your future career. You are aware of multiple ca
 You use appropriate communication considering your role in a team, your audience and the medium to convey your message and results of your software development process.
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | Beginning |
+| Id | Level |
+|---|---|
+| 1.1 | Proficient |
 
 #### Standups
 
@@ -109,10 +106,9 @@ This is a link to all the presentations we did in the group project. If you clic
 Besides functionality, you develop the architecture of enterprise software based on quality attributes. You especially consider attributes most relevant to enterprise contexts with high volume data and events. You design your architecture with future adaptation in mind. Your development environment supports this by being able to independently deploy and monitor the running parts of your application. 
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | --- |
+| Id | Level |
+|---|---|
+| 1.1 | Beginning |
 
 #### C1 model twitter
 
@@ -159,10 +155,9 @@ On the images below you can see that the API gateway is made and works. I used a
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | --- |
+| Id | Level |
+|---|---|
+| 1.1 | Beginning |
 
 #### Docker 
 
@@ -195,10 +190,9 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | --- |
+| Id | Level |
+|---|---|
+| 1.1 | Orienting |
 
 #### RabbitMQ 
 
@@ -240,10 +234,9 @@ I also managed to put a mysql database online via db4free.net.
 You investigate how to minimize security risks for your application, and you incorporate best practices in your whole software development process. 
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | --- |
+| Id | Level |
+|---|---|
+| 1.1 | Beginning |
 
 #### Authentication
 
@@ -294,10 +287,9 @@ I also added encrypted secrets in my repository for my dockerfile. This means th
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
 
 ### Score
-| Id | Description | Level |
-|---|---|---|
-| 1.1 | Sprint 1 | Orienting |
-| 1.2 | Sprint 2 | --- |
+| Id | Level |
+|---|---|
+| 1.1 | Orienting |
 
 #### Database for every microservice
 
