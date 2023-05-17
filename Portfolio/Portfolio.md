@@ -184,6 +184,14 @@ On the images below you can see that a docker image is made. This is done automa
   </tr>
 </table>
 
+#### Load testing 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/XJYqchMz/Scherm-afbeelding-2023-05-17-om-09-41-50.png" width=500 height=250></td>
+  </tr>
+</table>
+
 ## Learning Outcome 7 - Cloud Services
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
 
@@ -191,17 +199,6 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 | Id | Level |
 |---|---|
 | 1.1 | Orienting |
-
-#### RabbitMQ 
-
-On the images below you can see that I made a small poc with rabbitMQ. This can also be used for the group project
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/zXRrpBfJ/Scherm-afbeelding-2023-04-12-om-00-05-26.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/TwGVNpxB/Scherm-afbeelding-2023-04-12-om-00-05-54.png" width=500 height=250></td>
-  </tr>
-</table>
 
 #### Docker hub 
 
@@ -288,6 +285,16 @@ You are aware of specific data requirements for enterprise systems. You apply be
 | Id | Level |
 |---|---|
 | 1.1 | Orienting |
+
+#### RabbitMQ 
+
+On the image you can see i implemented RabbitMq between services. The messages are getting in the queue and in this project the auth service will retrieve them.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/BQBW4vP2/Scherm-afbeelding-2023-05-17-om-09-49-34.png" height=250></td>
+  </tr>
+</table>
 
 #### Database for every microservice
 
