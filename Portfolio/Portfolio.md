@@ -150,7 +150,6 @@ On the images below you can see that the API gateway is made and works. I used a
 </table>
 
 
-
 ## Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
 
@@ -183,6 +182,15 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
   <tr>
     <td><img src="https://i.postimg.cc/90L45Vwm/Scherm-afbeelding-2023-04-10-om-23-31-43.png" width=500 height=250></td>
     <td><img src="https://i.postimg.cc/mgvPGmkH/Scherm-afbeelding-2023-04-10-om-23-32-00.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### Sonarcloud 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/wBcVCKsT/Scherm-afbeelding-2023-05-09-om-13-05-45.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/2yqn8g3W/Scherm-afbeelding-2023-05-09-om-13-05-31.png" width=500 height=250></td>
   </tr>
 </table>
 
