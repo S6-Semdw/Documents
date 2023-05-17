@@ -221,10 +221,6 @@ I also managed to put a mysql database online via db4free.net.
   </tr>
 </table>
 
-#### Azure deployment
-
-----
-
 ## Learning Outcome 8 - Security by Design
 You investigate how to minimize security risks for your application, and you incorporate best practices in your whole software development process. 
 
