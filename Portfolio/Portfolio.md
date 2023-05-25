@@ -46,7 +46,7 @@ You deliver professional products according to planning, which is the result of 
 
 - [Personal research document](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/Research/Scaling%20infrastructure.md)
 
-- [Group research document](www.google.com)
+- [Group research document](https://github.com/S-A-RB05/.github/blob/main/Research/Docker%20data%20import%20and%20extraction.pdf)
 
 
 ## Learning Outcome 3 - Personal Leadership
@@ -89,11 +89,16 @@ This is a link to all the presentations we did in the group project. If you clic
 - [Group presentations](https://github.com/S6-Semdw/Documents/tree/main/Group%20project/Powerpoints)
 
 
-#### Release notes
+#### Release notes personal
 
 - [Release notes sprint 1](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/Release%20notes%20sprint%201.md)
 - [Release notes sprint 2](https://github.com/S6-Semdw/Documents/blob/main/Group%20project/General/Release%20notes%20sprint%202.md)
 
+#### Release notes group
+
+- [Release notes sprint 1](https://github.com/S-A-RB05/.github/blob/main/Sprint%20deliveries/Sprint%201/Release%20notes%20ATM%20sprint%201.pdf)
+- [Release notes sprint 2](https://github.com/S-A-RB05/.github/blob/main/Sprint%20deliveries/Sprint%202/Release%20notes%20ATM%20sprint%202.pdf)
+- [Release notes sprint 3](https://github.com/S-A-RB05/.github/blob/main/Sprint%20deliveries/Sprint%203/Release%20notes%20ATM%20sprint%203.pdf)
 
 #### User stories
 
