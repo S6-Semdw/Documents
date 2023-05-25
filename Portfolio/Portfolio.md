@@ -121,7 +121,7 @@ Besides functionality, you develop the architecture of enterprise software based
 
 #### C2 model twitter
 
-<img src="https://i.postimg.cc/qvMQThzB/Scherm-afbeelding-2023-05-08-om-10-57-45.png" width=550 height=450>
+<img src="https://i.postimg.cc/BZpzb0F8/Scherm-afbeelding-2023-05-25-om-09-40-58.png" width=550 height=450>
 
 #### Kubernetes
 
