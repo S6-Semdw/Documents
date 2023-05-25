@@ -154,6 +154,15 @@ On the images below you can see that the API gateway is made and works. I used a
   </tr>
 </table>
 
+#### Testing code in pipeline
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/N0d5k0Wt/Scherm-afbeelding-2023-05-24-om-23-52-29.png" width=500 height=250></td>
+     <td><img src="https://i.postimg.cc/3JhDXWRy/Scherm-afbeelding-2023-05-25-om-08-33-30.png" width=500 height=250></td>
+  </tr>
+</table>
+
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
