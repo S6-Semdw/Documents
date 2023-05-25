@@ -315,6 +315,15 @@ On the image you can see i implemented RabbitMq between services. The messages a
   </tr>
 </table>
 
+#### GDPR
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/tTfVS86X/Scherm-afbeelding-2023-05-25-om-08-57-21.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/5NzrfCf3/Scherm-afbeelding-2023-05-25-om-08-57-47.png" width=500 height=250></td>
+  </tr>
+</table>
+
 #### Distributed data issues (independent database)
 
 In my project, I have encountered several distributed data issues that can impact data consistency, integrity, and security. After careful analysis, I have identified the following challenges and devised corresponding solutions:
