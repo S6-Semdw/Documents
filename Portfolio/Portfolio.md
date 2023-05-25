@@ -138,6 +138,13 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
   </tr>
 </table>
 
+#### Single point of failure
+
+If a pod stops working it automatically creates a new one. This also applies if it needs to be scaled up.
+
+<img src="https://i.postimg.cc/KjN4bNDT/Scherm-afbeelding-2023-05-09-om-22-06-50.png" width=500 height=250>
+
+
 #### Discovery service
 
 I made a discovery service for the API gateway to discover. As you can see the services are added as clients
