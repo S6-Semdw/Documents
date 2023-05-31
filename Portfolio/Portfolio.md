@@ -138,12 +138,6 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
   </tr>
 </table>
 
-#### Single point of failure
-
-If a pod stops working it automatically creates a new one. This also applies if it needs to be scaled up.
-
-<img src="https://i.postimg.cc/KjN4bNDT/Scherm-afbeelding-2023-05-09-om-22-06-50.png" width=500 height=250>
-
 
 #### Discovery service
 
@@ -345,6 +339,12 @@ On the image you can see i implemented RabbitMq between services. The messages a
     <td><img src="https://i.postimg.cc/BQBW4vP2/Scherm-afbeelding-2023-05-17-om-09-49-34.png" height=250></td>
   </tr>
 </table>
+
+#### Single point of failure
+
+MongoDB cloud handles the single point of failure very good
+
+<img src="https://i.postimg.cc/t48CGWdz/Scherm-afbeelding-2023-05-31-om-09-35-40.png" width=500 height=250>
 
 #### Database for every microservice
 
