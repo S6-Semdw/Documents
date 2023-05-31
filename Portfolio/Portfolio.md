@@ -302,7 +302,31 @@ I also added encrypted secrets in my repository for my dockerfile. This means th
   </tr>
 </table>
 
+#### GDPR all data
 
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/pLpgvSkw/Scherm-afbeelding-2023-05-30-om-22-50-10.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/RVn7zQKP/Scherm-afbeelding-2023-05-30-om-22-50-28.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### GDPR delete data
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/tTfVS86X/Scherm-afbeelding-2023-05-25-om-08-57-21.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/5NzrfCf3/Scherm-afbeelding-2023-05-25-om-08-57-47.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### Security in pipeline (branche protection)
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/d3cysg84/Scherm-afbeelding-2023-05-31-om-01-29-43.png" width=500 height=250></td>
+  </tr>
+</table>
 
 ## Learning Outcome 9 – Distributed Data
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
@@ -328,15 +352,6 @@ On the image you can see i implemented RabbitMq between services. The messages a
   <tr>
     <td><img src="https://i.postimg.cc/ZqfJ67Nn/Scherm-afbeelding-2023-04-17-om-13-19-21.png" width=500 height=250></td>
     <td><img src="https://i.postimg.cc/PrmhSrDB/Scherm-afbeelding-2023-04-17-om-13-19-10.png" width=500 height=250></td>
-  </tr>
-</table>
-
-#### GDPR
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/tTfVS86X/Scherm-afbeelding-2023-05-25-om-08-57-21.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/5NzrfCf3/Scherm-afbeelding-2023-05-25-om-08-57-47.png" width=500 height=250></td>
   </tr>
 </table>
 
