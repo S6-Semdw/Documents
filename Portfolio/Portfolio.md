@@ -235,13 +235,19 @@ On the images below you can see that I made a small poc with rabbitMQ. This can 
 </table>
 
 
-#### Database online
-
-I also managed to put a mysql database online via db4free.net. 
+#### MongoDB cloud
 
 <table>
   <tr>
-    <td><img src="https://i.postimg.cc/1tQFYwKR/Scherm-afbeelding-2023-04-18-om-13-37-30.png" height=250></td>
+    <td><img src="https://i.postimg.cc/t48CGWdz/Scherm-afbeelding-2023-05-31-om-09-35-40.png" height=250></td>
+  </tr>
+</table>
+
+#### RabbitMQ cloud
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/t48CGWdz/Scherm-afbeelding-2023-05-31-om-09-35-40.png" height=250></td>
   </tr>
 </table>
 
