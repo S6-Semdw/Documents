@@ -213,6 +213,15 @@ On the images below you can see that a docker image is made. This is done automa
   </tr>
 </table>
 
+#### Monitoring 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/8CTPtNTR/Scherm-afbeelding-2023-05-30-om-23-19-30.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/v8xg18TT/Scherm-afbeelding-2023-05-30-om-23-44-46.png" width=500 height=250></td>
+  </tr>
+</table>
+
 ## Learning Outcome 7 - Cloud Services
 You can explain what a cloud platform provider is and can deploy (parts of) your application to a cloud platform. You integrate cloud services (for example: Serverless computing, cloud storage, container management) into your enterprise application, and can explain the added value of these cloud services for your application.
 
