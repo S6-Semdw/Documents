@@ -281,6 +281,17 @@ This document talks about 5 vulnerabilities that are most dangerous for my twitt
 
 [OWASP twitter vulnerabilities document](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/OWASP10.md)
 
+#### Snyk
+
+I used Snyk for security and got some vulnerabilities to fix. On the images you can see that their is a PR made that fixes some dependencies because they had a high dangerous level on Snyk. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/Y2NpcP2M/Scherm-afbeelding-2023-05-31-om-21-35-45.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/gjGbkYcd/Scherm-afbeelding-2023-05-31-om-21-35-53.png" width=500 height=250></td>
+  </tr>
+</table>
+
 #### Password hashing
 
 When the user is created he will be saved in the MYSQL database as you can see on the image below. The password is hashed so that only the user knows it so this is very secure.
