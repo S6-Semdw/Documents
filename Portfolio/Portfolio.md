@@ -270,6 +270,12 @@ In the user service I made sure that a new user can register himself with this s
   </tr>
 </table>
 
+#### OWASP document
+
+This document talks about 5 vulnerabilities that are most dangerous for my twitter application.
+
+[OWASP twitter vulnerabilities document](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/OWASP10.md)
+
 #### Password hashing
 
 When the user is created he will be saved in the MYSQL database as you can see on the image below. The password is hashed so that only the user knows it so this is very secure.
