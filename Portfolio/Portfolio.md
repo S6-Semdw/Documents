@@ -138,6 +138,11 @@ On the first 2 images below you can see that I managed to make a Kubernetes clus
   </tr>
 </table>
 
+#### Scaling
+
+As you can see on the image the pod scales when the load goes up. The load is generated with k6
+
+<img src="https://i.postimg.cc/kXV7pgHR/Scherm-afbeelding-2023-06-02-om-22-46-18.png" width=500 height=250>
 
 #### Discovery service
 
