@@ -239,6 +239,17 @@ On the images below you can see that I made a small poc with rabbitMQ. This can 
   </tr>
 </table>
 
+#### Google cloud
+
+On the images below you can see that I have everything on the cloud deployed. This is automatically done with a pipeline and it pushes every last versions of the services from dockerhub.
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/G346Zk6L/Scherm-afbeelding-2023-05-31-om-15-04-56.png" height=250></td>
+    <td><img src="https://i.postimg.cc/pXDcHkCH/Scherm-afbeelding-2023-05-31-om-20-48-35.png" height=250></td>
+  </tr>
+</table>
+
 
 #### MongoDB cloud
 
