@@ -222,7 +222,7 @@ You can explain what a cloud platform provider is and can deploy (parts of) your
 ### Score
 | Id | Level |
 |---|---|
-| 1.1 | Orienting |
+| 1.1 | Beginning |
 
 #### Docker hub 
 
@@ -340,7 +340,7 @@ You are aware of specific data requirements for enterprise systems. You apply be
 ### Score
 | Id | Level |
 |---|---|
-| 1.1 | Orienting |
+| 1.1 | Beginning |
 
 #### RabbitMQ 
 
