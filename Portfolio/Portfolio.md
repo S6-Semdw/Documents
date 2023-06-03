@@ -163,6 +163,10 @@ On the images below you can see that the API gateway is made and works. I used a
     <td><img src="https://i.postimg.cc/7YP625PJ/Scherm-afbeelding-2023-04-23-om-00-20-54.png" width=500 height=250></td>
      <td><img src="https://i.postimg.cc/c1h10d7x/Scherm-afbeelding-2023-04-23-om-00-20-17.png" width=500 height=250></td>
   </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/MH3mqPHW/Scherm-afbeelding-2023-05-31-om-15-04-47.png" width=500 height=250></td>
+     <td><img src="https://i.postimg.cc/fW8KcLK6/Scherm-afbeelding-2023-06-03-om-20-08-05.png" width=500 height=250></td>
+  </tr>
 </table>
 
 #### Testing code in pipeline
