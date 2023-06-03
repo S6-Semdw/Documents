@@ -263,7 +263,7 @@ On the images below you can see that I have everything on the cloud deployed. Th
 
 <table>
   <tr>
-    <td><img src="https://i.postimg.cc/t48CGWdz/Scherm-afbeelding-2023-05-31-om-09-35-40.png" height=250></td>
+    <td><img src="https://i.postimg.cc/3N8vygVd/Scherm-afbeelding-2023-05-31-om-10-47-22.png" height=250></td>
   </tr>
 </table>
 
