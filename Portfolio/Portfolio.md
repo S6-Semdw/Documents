@@ -252,6 +252,10 @@ On the images below you can see that I have everything on the cloud deployed. Th
     <td><img src="https://i.postimg.cc/G346Zk6L/Scherm-afbeelding-2023-05-31-om-15-04-56.png" height=250></td>
     <td><img src="https://i.postimg.cc/pXDcHkCH/Scherm-afbeelding-2023-05-31-om-20-48-35.png" height=250></td>
   </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/MH3mqPHW/Scherm-afbeelding-2023-05-31-om-15-04-47.png" height=250></td>
+    <td><img src="https://i.postimg.cc/fW8KcLK6/Scherm-afbeelding-2023-06-03-om-20-08-05.png" height=250></td>
+  </tr>
 </table>
 
 
