@@ -407,6 +407,10 @@ Below are some security test which test 401, 200ok etc.
     <td><img src="https://i.postimg.cc/d0pSkLDY/Scherm-afbeelding-2023-06-03-om-13-53-52.png" width=500 height=250></td>
     <td><img src="https://i.postimg.cc/MTh2S911/Scherm-afbeelding-2023-06-03-om-13-53-15.png" width=500 height=250></td>
   </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/cCNLMRXM/Scherm-afbeelding-2023-06-04-om-19-48-10.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/qqL4s9t4/Scherm-afbeelding-2023-06-04-om-19-46-17.png" width=500 height=250></td>
+  </tr>
 </table>
 
 
