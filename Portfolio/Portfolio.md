@@ -402,6 +402,12 @@ MongoDB cloud handles the single point of failure very good
   </tr>
 </table>
 
+#### Scaling (cap)
+
+This document explains how scaling with cap works in MongoDB
+
+- [MongoDB cloud scaling cap document](https://github.com/Portfolio-Advanced-software/.github/blob/main/Documentation/MongoDB.md)
+
 #### Distributed data issues (independent database)
 
 In my project, I have encountered several distributed data issues that can impact data consistency, integrity, and security. After careful analysis, I have identified the following challenges and devised corresponding solutions:
