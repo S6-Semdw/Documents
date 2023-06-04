@@ -400,7 +400,7 @@ On the image you can see i implemented RabbitMq between services. The messages a
 
 #### Single point of failure
 
-MongoDB cloud handles the single point of failure very good
+MongoDB cloud handles the single point of failure very good. It makes a new database when one is down.
 
 <img src="https://i.postimg.cc/t48CGWdz/Scherm-afbeelding-2023-05-31-om-09-35-40.png" width=500 height=250>
 
