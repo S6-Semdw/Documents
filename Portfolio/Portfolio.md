@@ -302,9 +302,9 @@ This document talks about 5 vulnerabilities that are most dangerous for my twitt
 
 [OWASP twitter vulnerabilities document](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/OWASP10.md)
 
-#### Snyk
+#### Synk
 
-I used Snyk for security and got some vulnerabilities to fix. On the images you can see that their is a PR made that fixes some dependencies because they had a high dangerous level on Snyk. 
+I used Synk for security and got some vulnerabilities to fix. On the images you can see that their is a PR made that fixes some dependencies because they had a high dangerous level on Snyk. 
 
 <table>
   <tr>
