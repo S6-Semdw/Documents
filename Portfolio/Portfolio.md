@@ -402,6 +402,18 @@ MongoDB cloud handles the single point of failure very good
   </tr>
 </table>
 
+#### Security test
+
+Below are some security test which test 401, 200ok etc. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/d0pSkLDY/Scherm-afbeelding-2023-06-03-om-13-53-52.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/MTh2S911/Scherm-afbeelding-2023-06-03-om-13-53-15.png" width=500 height=250></td>
+  </tr>
+</table>
+
+
 #### Scaling (cap)
 
 This document explains how scaling with cap works in MongoDB
