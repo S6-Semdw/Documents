@@ -347,6 +347,21 @@ I also added encrypted secrets in my repository for my dockerfile. This means th
   </tr>
 </table>
 
+#### Security test
+
+Below are some security test which test 400, 401, 200ok etc. 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/d0pSkLDY/Scherm-afbeelding-2023-06-03-om-13-53-52.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/MTh2S911/Scherm-afbeelding-2023-06-03-om-13-53-15.png" width=500 height=250></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/cCNLMRXM/Scherm-afbeelding-2023-06-04-om-19-48-10.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/qqL4s9t4/Scherm-afbeelding-2023-06-04-om-19-46-17.png" width=500 height=250></td>
+  </tr>
+</table>
+
 ## Learning Outcome 9 – Distributed Data
 You are aware of specific data requirements for enterprise systems. You apply best practices for distributed data during your whole development process, both for non-functional and functional requirements. You especially take legal and ethical issues into consideration.
 
@@ -395,21 +410,6 @@ MongoDB cloud handles the single point of failure very good
   <tr>
     <td><img src="https://i.postimg.cc/ZqfJ67Nn/Scherm-afbeelding-2023-04-17-om-13-19-21.png" width=500 height=250></td>
     <td><img src="https://i.postimg.cc/PrmhSrDB/Scherm-afbeelding-2023-04-17-om-13-19-10.png" width=500 height=250></td>
-  </tr>
-</table>
-
-#### Security test
-
-Below are some security test which test 400, 401, 200ok etc. 
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/d0pSkLDY/Scherm-afbeelding-2023-06-03-om-13-53-52.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/MTh2S911/Scherm-afbeelding-2023-06-03-om-13-53-15.png" width=500 height=250></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.postimg.cc/cCNLMRXM/Scherm-afbeelding-2023-06-04-om-19-48-10.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/qqL4s9t4/Scherm-afbeelding-2023-06-04-om-19-46-17.png" width=500 height=250></td>
   </tr>
 </table>
 
