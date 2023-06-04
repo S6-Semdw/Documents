@@ -400,7 +400,7 @@ MongoDB cloud handles the single point of failure very good
 
 #### Security test
 
-Below are some security test which test 401, 200ok etc. 
+Below are some security test which test 400, 401, 200ok etc. 
 
 <table>
   <tr>
