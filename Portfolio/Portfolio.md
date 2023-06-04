@@ -144,6 +144,14 @@ As you can see on the image the pod scales when the load goes up. The load is ge
 
 <img src="https://i.postimg.cc/kXV7pgHR/Scherm-afbeelding-2023-06-02-om-22-46-18.png" width=500 height=250>
 
+#### Load testing 
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/XJYqchMz/Scherm-afbeelding-2023-05-17-om-09-41-50.png" width=500 height=250></td>
+  </tr>
+</table>
+
 #### Discovery service
 
 I made a discovery service for the API gateway to discover. As you can see the services are added as clients
@@ -201,14 +209,6 @@ On the images below you can see that a docker image is made. This is done automa
   <tr>
     <td><img src="https://i.postimg.cc/N0d5k0Wt/Scherm-afbeelding-2023-05-24-om-23-52-29.png" width=500 height=250></td>
      <td><img src="https://i.postimg.cc/3JhDXWRy/Scherm-afbeelding-2023-05-25-om-08-33-30.png" width=500 height=250></td>
-  </tr>
-</table>
-
-#### Load testing 
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/XJYqchMz/Scherm-afbeelding-2023-05-17-om-09-41-50.png" width=500 height=250></td>
   </tr>
 </table>
 
