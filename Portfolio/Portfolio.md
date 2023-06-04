@@ -173,11 +173,11 @@ On the images below you can see that the API gateway is made and works. I used a
   </tr>
 </table>
 
-#### Recoursemapping
+#### Resource mapping
 
-This document gives information about the recoursemapping for my Twitter application.
+This document gives information about the resource mapping for my Twitter application.
 
-- [Recoursemapping](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/Resourcemapping.md)
+- [Resource mapping document](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/Resourcemapping.md)
 
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
