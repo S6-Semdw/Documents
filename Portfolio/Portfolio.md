@@ -173,6 +173,12 @@ On the images below you can see that the API gateway is made and works. I used a
   </tr>
 </table>
 
+#### Recoursemapping
+
+This document gives information about the recoursemapping for my Twitter application.
+
+- [Recoursemapping](https://github.com/S6-Semdw/Documents/blob/main/Individual%20project/General/Resourcemapping.md)
+
 
 ## Learning Outcome 6 - Development and Operations (DevOps)
 You set up environments and tools which support your chosen software development process. You provide governance for all stakeholders’ goals. You aim for as much automation as possible, to enable short release times and high software quality.
