@@ -339,24 +339,6 @@ I also added encrypted secrets in my repository for my dockerfile. This means th
   </tr>
 </table>
 
-#### GDPR all data
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/pLpgvSkw/Scherm-afbeelding-2023-05-30-om-22-50-10.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/RVn7zQKP/Scherm-afbeelding-2023-05-30-om-22-50-28.png" width=500 height=250></td>
-  </tr>
-</table>
-
-#### GDPR delete data
-
-<table>
-  <tr>
-    <td><img src="https://i.postimg.cc/tTfVS86X/Scherm-afbeelding-2023-05-25-om-08-57-21.png" width=500 height=250></td>
-    <td><img src="https://i.postimg.cc/5NzrfCf3/Scherm-afbeelding-2023-05-25-om-08-57-47.png" width=500 height=250></td>
-  </tr>
-</table>
-
 #### Security in pipeline (branche protection)
 
 <table>
@@ -380,6 +362,24 @@ On the image you can see i implemented RabbitMq between services. The messages a
 <table>
   <tr>
     <td><img src="https://i.postimg.cc/BQBW4vP2/Scherm-afbeelding-2023-05-17-om-09-49-34.png" height=250></td>
+  </tr>
+</table>
+
+#### GDPR all data
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/pLpgvSkw/Scherm-afbeelding-2023-05-30-om-22-50-10.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/RVn7zQKP/Scherm-afbeelding-2023-05-30-om-22-50-28.png" width=500 height=250></td>
+  </tr>
+</table>
+
+#### GDPR delete data
+
+<table>
+  <tr>
+    <td><img src="https://i.postimg.cc/tTfVS86X/Scherm-afbeelding-2023-05-25-om-08-57-21.png" width=500 height=250></td>
+    <td><img src="https://i.postimg.cc/5NzrfCf3/Scherm-afbeelding-2023-05-25-om-08-57-47.png" width=500 height=250></td>
   </tr>
 </table>
 
