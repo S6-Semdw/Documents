@@ -229,6 +229,8 @@ On the images below you can see that a docker image is made. This is done automa
 
 #### Google cloud CI/CD 
 
+When I push a service to master it automatically deploys to google cloud cluster.
+
 <table>
   <tr>
     <td><img src="https://i.postimg.cc/gcHzdrDP/Scherm-afbeelding-2023-06-05-om-10-27-01.png" width=500 height=250></td>
