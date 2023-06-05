@@ -366,6 +366,9 @@ Below are some security test which test 400, 401, 200ok etc.
     <td><img src="https://i.postimg.cc/cCNLMRXM/Scherm-afbeelding-2023-06-04-om-19-48-10.png" width=500 height=250></td>
     <td><img src="https://i.postimg.cc/qqL4s9t4/Scherm-afbeelding-2023-06-04-om-19-46-17.png" width=500 height=250></td>
   </tr>
+  <tr>
+    <td><img src="https://i.postimg.cc/2S0nMHPP/Scherm-afbeelding-2023-06-05-om-10-10-18.png" width=500 height=250></td>
+  </tr>
 </table>
 
 ## Learning Outcome 9 – Distributed Data
